@@ -12,7 +12,6 @@
     <div class="box">
         <div class="container">
             <div class="top-header">
-                <span>Have an account?</span>
                 <header>Login</header>
             </div>
 
@@ -32,9 +31,6 @@
                 <div class="left">
                     <input type="checkbox"  id="check">
                     <label for="check"> Remember Me</label>
-                </div>
-                <div class="right">
-                    <label><a href="#">Forgot password?</a></label>
                 </div>
             </div>
         </div>
