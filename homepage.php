@@ -6,7 +6,7 @@
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <link href='https://fonts.googleapis.com/css2?family=Playwrite+US+Trad:wght@100..400&display=swap' rel='stylesheet'>
     <link rel="stylesheet" href="homepage.css">
-    <title>Document</title>
+    <title>Hotel Magnificent</title>
 </head>
 <body>
     <header>
