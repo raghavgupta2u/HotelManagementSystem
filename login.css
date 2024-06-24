@@ -1,12 +1,12 @@
 /* POPPINS FONT */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 
-*{
+* {
     font-family: 'Poppins', sans serif;
 }
 
 
-body{
+body {
     background-image: url("img/unsplash2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
@@ -14,31 +14,34 @@ body{
     background-attachment: fixed;
 }
 
-.box{
+.box {
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 90vh;
 }
-.container{
+
+.container {
     width: 350px;
     display: flex;
     flex-direction: column;
     padding: 0 15px 0 15px;
 }
 
-header{
+header {
     color: #fff;
     font-size: 30px;
     display: flex;
     justify-content: center;
     padding: 10px 0 10px 0;
 }
-.input-field{
+
+.input-field {
     display: flex;
     flex-direction: column;
 }
-.input-field .input{
+
+.input-field .input {
     height: 45px;
     width: 87%;
     border: none;
@@ -46,35 +49,40 @@ header{
     border-radius: 30px;
     color: #fff;
     padding: 0 0 0 42px;
-    background: rgba(255,255,255,0.1);
+    background: rgba(255, 255, 255, 0.1);
 }
-i{
+
+i {
     position: relative;
     top: -31px;
     left: 17px;
     color: #fff;
 }
-::-webkit-input-placeholder{
+
+::-webkit-input-placeholder {
     color: #fff;
 }
-.submit{
-   
+
+.submit {
+
     border: none;
     border-radius: 30px;
     font-size: 15px;
     height: 45px;
     outline: none;
     width: 100%;
-    background: rgba(255,255,255,0.7);
+    background: rgba(255, 255, 255, 0.7);
     cursor: pointer;
     transition: .3s;
 }
-.submit:hover{
+
+.submit:hover {
     background: transparent;
-    border: 1px solid white ;
+    border: 1px solid white;
     color: white;
 }
-.bottom{
+
+.bottom {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -83,14 +91,15 @@ i{
     margin-top: 10px;
 }
 
-.left{
+.left {
     display: flex;
 }
-label a{
+
+label a {
     color: #fff;
     text-decoration: none;
 }
 
-a{
+a {
     color: white;
 }

@@ -43,7 +43,7 @@ body {
 
 .sidebar .sidebar-header h2 {
   color: #fff;
-  font-size: 1.25rem;
+  font-size: 1.0rem;
   font-weight: 600;
   white-space: nowrap;
   margin-left: 23px;
@@ -57,15 +57,15 @@ body {
   position: relative;
 }
 
-.sidebar-links h4 span {
+/* .sidebar-links h4 span {
   opacity: 1;
-}
+} */
 
 /* .sidebar:hover .sidebar-links h4 span {
   opacity: 1;
 } */
 
-.sidebar-links .menu-separator {
+/* .sidebar-links .menu-separator {
   position: absolute;
   left: 0;
   top: 50%;
@@ -81,7 +81,7 @@ body {
 .sidebar:hover .sidebar-links .menu-separator {
   transition-delay: 0s;
   transform: scaleX(0);
-}
+} */
 
 .sidebar-links {
   list-style: none;

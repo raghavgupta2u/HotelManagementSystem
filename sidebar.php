@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<!-- Coding By CodingNepal - www.codingnepalweb.com -->
 <html lang="en">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Dasbord</title>
   <!-- Linking Google Font Link For Icons -->
-  <link rel="stylesheet"
-    href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
   <link rel="stylesheet" href="sidebar.css" />
 </head>
+
 <body>
   <aside class="sidebar">
     <div class="sidebar-header">
@@ -24,6 +24,9 @@
       <li>
         <a href="#">
           <span class="material-symbols-outlined"> dashboard </span>Dashboard</a>
+      </li>
+      <li><a href="#">
+          <span class="material-symbols-outlined">bed</span>Cyheckin</a>
       </li>
       <h4>
         <span>Account</span>
@@ -47,4 +50,5 @@
     </div>
   </aside>
 </body>
+
 </html>
