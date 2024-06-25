@@ -10,7 +10,7 @@
 </head>
 <body>
     <header>
-        
+        <div class="page1">
         <nav>
             <div class="logo">
              <h1> HM</h1> 
@@ -30,8 +30,8 @@
                 <p>The sunside Hotel is the right choice for visitors who are searching 
                 for a combination of charm,peace and comfort</p>
               </section>
-              <div class="spacer"></div>
-    </header>
+        </div>
+     </header>
     <main>
 
       
