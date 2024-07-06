@@ -21,13 +21,22 @@
         <span>Main Menu</span>
         <div class="menu-separator"></div>
       </h4>
-      <li>
-        <a href="#">
+      <li><a href="#">
           <span class="material-symbols-outlined"> dashboard </span>Dashboard</a>
       </li>
       <li><a href="#">
-          <span class="material-symbols-outlined">bed</span>Cyheckin</a>
+          <span class="material-symbols-outlined">bed</span>Checkin</a>
       </li>
+      <li><a href="#">
+          <span class="material-symbols-outlined">bed</span>Checkout</a>
+      </li>
+      <li><a href="#">
+        <span class="material-symbols-outlined">room_service</span>Room Service</a>
+      </li>
+      <li><a href="#">
+          <span class="material-symbols-outlined">meeting_room</span>Mangeroom</a>
+      </li>
+      
       <h4>
         <span>Account</span>
         <div class="menu-separator"></div>
