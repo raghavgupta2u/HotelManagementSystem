@@ -45,7 +45,7 @@
         <a href="profile.php"><span class="material-symbols-outlined"> account_circle </span>Profile</a>
       </li>
       <li>
-        <a href="login.php"><span class="material-symbols-outlined"> logout </span>Logout</a>
+        <a href="../../user/login.php"><span class="material-symbols-outlined"> logout </span>Logout</a>
       </li>
     </ul>
     <div class="user-account">
