@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <link href='https://fonts.googleapis.com/css2?family=Playwrite+US+Trad:wght@100..400&display=swap' rel='stylesheet'>
-    <link rel="stylesheet" href="../homepage.css">
+    <link rel="stylesheet" href="../user/css/homepage.css">
     <title>Hotel Magnificent</title>
 </head>
 <body>
@@ -22,7 +22,7 @@
              <a href="#">About</a>
         </div>
            <div class="login">
-              <a href="login.php">Login</a>
+              <a href="login.php">Book Now</a>
            </div>
         </nav>
               <section class="headertext">
