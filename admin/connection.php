@@ -14,7 +14,7 @@ if (isset($_POST['Submit'])) {
       session_start();
       $_SESSION["user_id"] = $row['user_id'];
 
-      header("Location: http://localhost/website/sidebar.php");
+      header("Location: http://localhost/website/admin/adminpanal.php");
     }
   } else {
     echo '<div class="alert alert-danger"> Username and password are not matches.</div>';
