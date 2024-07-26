@@ -7,7 +7,7 @@
   <title>Dasbord</title>
   <!-- Linking Google Font Link For Icons -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
-  <link rel="stylesheet" href="../sidebar.css" />
+  <link rel="stylesheet" href="../css/sidebar.css" />
 </head>
 
 <body>
@@ -45,12 +45,11 @@
         <a href="profile.php"><span class="material-symbols-outlined"> account_circle </span>Profile</a>
       </li>
       <li>
-        <a href="../../user/login.php"><span class="material-symbols-outlined"> logout </span>Logout</a>
+        <a href="../../admin/login.php"><span class="material-symbols-outlined"> logout </span>Logout</a>
       </li>
     </ul>
     <div class="user-account">
       <div class="user-profile">
-        <img src="../img/profile-img.jpg" alt="Profile Image" />
         <div class="user-detail">
           <h3>Eva Murphy</h3>
           <span>Web Developer</span>

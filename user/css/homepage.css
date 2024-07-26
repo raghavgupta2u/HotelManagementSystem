@@ -79,10 +79,10 @@ nav{
  color: white;
 }
 .headertext{
-   max-width: 650px ;
+   max-width: 500px ;
    position: absolute;
    top: 50%;
-   left: 50%;
+   left: 20%;
    transform: translate(-50%,-50%);
    text-align: left;
    color: white;  
@@ -91,6 +91,6 @@ nav{
 .headertext span{
   font-family: var(--my-fonts);
   letter-spacing: 4px;
-  font-size: 3.5em;
+  font-size: 3.0em;
   text-decoration: none;
 }
