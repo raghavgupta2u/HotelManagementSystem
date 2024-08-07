@@ -78,15 +78,13 @@ nav{
  border: 1px solid white ;
  color: white;
 }
-.headertext{
+.headertext {
    max-width: 500px ;
    position: absolute;
    top: 50%;
    left: 23%;
-  
    text-align: left;
    color: white;  
-   animation: slid-in 1s 1;
 }
 
 .headertext h5{
@@ -97,11 +95,18 @@ nav{
   animation: slid-in 2s 1;
 }
 
+.headertext p{
+  letter-spacing: 4px;
+  font-size: 1.0em;
+  text-decoration: none;
+  animation: slid-in 2s 1;
+}
+
 @keyframes slid-in {
     0%{
       transform: translate(50%);
     }
     100%{
-      transform: translate(-23%);
+      transform: translate(-20%);
     }
 }
